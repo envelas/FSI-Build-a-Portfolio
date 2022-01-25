@@ -1,0 +1,16 @@
+body {
+    background-color:deepskyblue;
+    cursor:grab;
+    font-family:cursive;
+}
+
+div{
+   text-align: center;
+}
+
+img {
+    height:200pk;
+    width:200px;
+    border:4px solid black;
+    border-radius:50px 20px
+}
